@@ -1,0 +1,7 @@
+Короткое описание (Summary)
+Серьезность (Severity)
+Приоритет (Priority)
+Шаги воспроизведения (Steps to Reproduce)
+Фактический Результат (Result)
+Ожидаемый результат (Expected Result)
+Прикрепленный файл (Attachment)
